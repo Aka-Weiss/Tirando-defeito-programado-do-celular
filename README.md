@@ -20,6 +20,7 @@ Inspirado em [cavaleiro-ai/Tirando-defeito-programado-dos-tablets](https://githu
 - [Problemas comuns](#problemas-comuns)
 - [Limites](#limites)
 - [Fontes](#fontes)
+- [Licença](#licença)
 
 ## Resultados medidos
 
@@ -205,3 +206,7 @@ O processo foi executado de ponta a ponta só no Galaxy S22.
 - [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation), lista pública usada para identificar pacotes
 - [AdGuard DNS](https://adguard-dns.io/)
 - [Projeto original para tablets](https://github.com/cavaleiro-ai/Tirando-defeito-programado-dos-tablets)
+
+## Licença
+
+[MIT](LICENSE). Você pode usar, copiar e adaptar o guia, o prompt e os scripts, desde que mantenha o aviso de autoria. Não há garantia: confira cada pacote no seu aparelho antes de remover. O ADB, o AdGuard DNS e o Universal Android Debloater são projetos independentes, com licenças próprias.
